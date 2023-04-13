@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DanilaKharlamov
-- 👀 Java
+- 👀 Java/Kotlin
 - 🌱 Software Engineer
 - 📫 danila.kharlamov.v@gmail.com 
